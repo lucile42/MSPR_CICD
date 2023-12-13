@@ -1,6 +1,6 @@
 name: Industrialisation continue sur le serveur AWS (Tomcat)
 on: push
-jobs:
+jobs: 
   Deploy:
     name: Deploy
     runs-on: ubuntu-latest
